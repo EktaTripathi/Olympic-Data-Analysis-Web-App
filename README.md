@@ -1,6 +1,11 @@
 # Olympic Data Analysis Web App
 This repository contains code for an interactive web application built with Streamlit for analyzing Olympic data. The app offers various features for exploring and visualizing insights from the "120 years of Olympic history: athletes and results" dataset sourced from Kaggle.
 
+
+# Deployment
+The web application is deployed using Render and can be accessed [here](https://olympic-data-analysis-web-app-x6bj.onrender.com/)
+
+
 # Dataset
 The analysis is based on the "120 years of Olympic history: athletes and results" dataset available on Kaggle. This dataset provides comprehensive information about Olympic athletes, events, and results spanning over a century of Olympic history.
 [click here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
