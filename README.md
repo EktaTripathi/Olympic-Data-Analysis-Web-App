@@ -29,3 +29,19 @@ To run the application locally:
 2. Install the required dependencies by running pip install -r requirements.txt.
 3. Run the Streamlit app using the command streamlit run app.py.
 4. Access the application through your web browser.
+
+# Screenshots of web app
+
+![web app (1)](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/0ef66288-c53f-4036-a15e-043385005471)
+
+![web app (2)](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/73af851a-2605-4223-a142-1d0905e15cb8)
+
+![web app (4)](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/bc4eb417-0b20-4e8c-aaf8-9a0eb3e6eda6)
+
+![web app (5)](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/dddf7075-8964-4ee1-93c5-4f7d39e20e90)
+
+
+![web app ](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/12505a04-b5bb-4f27-afe6-d608eab7603f)
+
+
+![web app (6)](https://github.com/EktaTripathi/Olympic-Data-Analysis-Web-App/assets/94041887/16d6947b-6b72-4629-a73a-e4e7dcf0bb0f)
